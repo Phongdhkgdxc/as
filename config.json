@@ -1,6 +1,6 @@
 {
 	"ip":"phongas.aternos.me",
 	"port": "64998",
-	"name": "admin",
+	"name" : "quản trị viên" ,
 	"auto-night-skip":"true"
 }
